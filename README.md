@@ -10,15 +10,15 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
-  <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td> 
+ <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
  <td><a href="">巨量資料處理</a></td>
- <td> 兔 子 </td>
+ <td> 鴨 子 </td>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
- <td><a href="[https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw](https://github.com/a37072258/DataVisualization)">實習</a></td>
+ <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
  <td><a href="">資料視覺化</a></td>
- <td> 鴨 子 </td>
+ <td> 兔 子 </td>
  </tr>
  
  <tr>
